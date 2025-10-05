@@ -1,0 +1,140 @@
+Make sure to read all the options before answering, some questions might be trying to trick you hehe
+
+
+1. Which of the following options is a valid way to write a function? Assume the function is called exampleFunction.
+
+A: 
+exampleFunction
+
+B:
+() exampleFunction
+
+C:
+exampleFunction()
+
+D: 
+(exampleFunction)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Which of the following options is a valid way to write "6 7" to the console?
+
+A:
+write "6 7"
+
+B: 
+print("6 7")
+
+C:
+"6 7" print
+
+D:
+print(6 7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. If I run the following code, what will be the output?
+
+print("My name is Mohammed")
+print("I like to code")
+
+
+A:
+
+My name is Mohammed I like to code
+
+
+B:
+
+My name is Mohammed
+I like to code
+
+
+C:
+
+"My name is Mohammed"
+"I like to code"
+
+
+D: no output, there is a syntax error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. If I run the following code, what will be the output?
+
+print("I teach a Python class")
+print(It is online, and it is very fun!)
+
+
+A:
+
+I teach a Python class It is online, and it is very fun!
+
+
+B:
+
+I teach a Python class
+It is online, and it is very fun!
+
+
+C:
+
+"I teach a Python class"
+"It is online, and it is very fun!"
+
+
+D: no output, there is a syntax error

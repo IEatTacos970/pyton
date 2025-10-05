@@ -1,0 +1,94 @@
+1. What is the correct list of comparisons?
+
+A: 
+
+< less than
+> more than
+== equal
+
+B:
+
+< equal
+> less than
+= more than
+
+C:
+
+< less than
+> more than
+= equal
+
+D:
+
+< less than
+> equal
+== more than
+
+
+
+
+
+
+
+
+
+
+
+
+2. How would I write an if statement that checks if variable1 is more than variable2?
+
+A: 
+
+if (variable1 > variable2) {
+    print("It Is!")
+}
+
+B:
+
+if variable1 > variable2 print("It Is!")
+
+C:
+
+variable1 > variable2:
+    print("It Is!")
+
+D: 
+
+if variable1 > variable2:
+    print("It Is!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (hard) What will be the output of this code?
+
+var = 5
+var2 = 5
+var3 = var / var2
+
+if var > var2:
+    print("Yes")
+elif var == var3:
+    print("No")
+elif var2 < var3:
+    print("Maybe")
+else:
+    print("Sometimes")
+
+
+A: Yes
+
+B: No
+
+C: Maybe
+
+D: Sometimes

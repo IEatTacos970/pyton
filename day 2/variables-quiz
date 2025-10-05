@@ -1,0 +1,50 @@
+1. Which option is the correct way to make a variable called variable1, and make it equal to 3?
+
+A:
+3 = variable1
+
+B:
+variable1(3)
+
+C:
+variable1 = 3
+
+D:
+variable1 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. What does the following code do?
+
+anotherVariable = "Hello World"
+print(anotherVariable)
+
+
+A: Makes a variable called anotherVariable, sets it equal to "Hello World", and prints it to the console
+
+B: Makes a variable called "Hello World", sets it equal to anotherVariable, and then sets print() equal to "Hello World"
+
+C: The code isn't Python code
+
+D: idk i ran out of wrong answers

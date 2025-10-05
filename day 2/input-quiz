@@ -1,0 +1,25 @@
+1. Which of the following options asks the user for their name and then prints a hello to them?
+
+
+A:
+
+input("What is ur name? ")
+print("hello" input)
+
+
+B:
+
+name = input("What is ur name? ")
+print("hello", name)
+
+
+C:
+
+ask(name) = "What is ur name? "
+print("hello", name)
+
+
+D:
+
+name = ask "What is ur name?"
+print "hello name"
