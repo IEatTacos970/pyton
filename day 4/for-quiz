@@ -1,0 +1,173 @@
+1. What is a for?
+
+A:
+A way to specify the recipient of a message
+
+B:
+A way to end the code
+
+C:
+A loop
+
+D:
+A way to repeat code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Is this the correct way to write a for loop?
+
+for i < 4 do:
+    print(i)
+
+A: True
+
+B: False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. What will this code's output be?
+
+fruits = ["apple", "banana", "orange", "grape"]
+
+for fruit in fruits:
+    if fruit == "orange":
+        break
+    
+    print(fruit, "is a fruit")
+
+
+A:
+apple is a fruit
+banana is a fruit
+orange is a fruit
+grape is a fruit
+
+
+B:
+apple is a fruit
+banana is a fruit
+grape is a fruit
+
+
+C:
+apple is a fruit
+banana is a fruit
+
+
+D:
+it wont print anything, there is an error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. What will this code's output be?
+
+fruits = ["apple", "banana", "orange", "grape"]
+
+for fruit in fruits:
+    if fruit != "orange":
+        continue
+    
+    print(fruit, "is a fruit")
+
+
+A:
+apple is a fruit
+banana is a fruit
+grape is a fruit
+
+
+B:
+orange is a fruit
+
+
+C:
+apple is a fruit
+banana is a fruit
+
+
+D:
+nothing will print, there is an error

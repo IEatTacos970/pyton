@@ -20,7 +20,7 @@ print(number3)
 
 # conditions
 
-# >, <, ==
+# >, <, ==, !=
 
 
 # if statements, make them untrue aswell to demonstrate
@@ -66,4 +66,6 @@ elif number == number2:
 
 # math, if else quiz
 
-# mini project: guessing game
+# ALSO: DO INT(INPUT()) -- very important
+
+# mini project: basic calculator (guided), guessing game
