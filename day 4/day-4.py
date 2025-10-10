@@ -52,3 +52,5 @@ for thing in randomItems:
 
 
 # quiz
+# do character
+# mini: if there is a '&' then brake

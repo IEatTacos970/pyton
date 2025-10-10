@@ -1,5 +1,7 @@
 # functions & params & math
 
+# TEACH .append()
+
 # what are functions used for: to eliminate the same code being in two different places, kinda like a variable but for code 
 # instead of datatypes
 
@@ -28,11 +30,14 @@ def multiAdder(a,b,c,d,e):
 multiAdder(1, 2, 3, 4, 5)
 
 
-# what if you dont want to print?
+# what if you dont want to print? -- will act like a variable
 
 def returnNumber(a, b):
     return a + b
 
-print(returnNumber(1, 3))
+print(returnNumber(1, 3) + 15)
 
-#
+# quiz
+
+# mini projects: make func that checks if a number is == 5, make a function that calculates factorials hard 
+

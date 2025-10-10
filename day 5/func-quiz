@@ -1,0 +1,203 @@
+1. Which one of these pieces of code defines a function properly?
+
+A:
+
+function printWord() = print("Hello")
+
+
+B:
+
+def printWord:
+    print("Hello")
+
+
+C:
+
+def printWord():
+    print("Hello")
+
+
+D:
+
+def printWord() = print("Hello")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. How can I write a function that adds 2 numbers and prints them?
+
+A:
+
+def addNumbers(number1 number2):
+    print(number1 + number2)
+
+
+B:
+
+def addNumbers(number1, number2):
+    print(number1 + number2)
+
+
+C:
+
+def addNumbers(number1 + number2):
+    print(number)
+
+
+D:
+
+def addNumbers():
+    print(number1 + number2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. What will this code print out?
+
+number1 = 5
+number2 = 89
+
+def checkSumOfNumbers(num1, num2):
+    num3 = num1 + num2 - 4
+
+    if num3 > 90:
+        return "oui"
+    elif num3 < 90:
+        return "non"
+
+    if num3 < num2:
+        return "bien"
+    else:
+        return "mal"
+
+
+responce = checkSumOfNumbers(number1, number2)
+
+print(responce)
+
+
+A: oui
+
+B: non
+
+C: bien
+
+D: mal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I will be very very impressed if anyone gets this question
+
+One note: adding strings together is possible using " ".join(), so:
+
+words = ["hi", "hello"] 
+joined = " ".join(words)  ----  this will be "hi hello"
+
+Another note: to convert numbers to strings you can use str() so: str(7.8) = "7.8"
+
+4. How would the print() function be defined? Pretend that console.write() can write to the console
+
+A: 
+
+def print(a, b, c, d, e):
+    words = [a, b, c, d, e]
+    console.write(" ".join(words)).str()
+
+
+B: 
+
+def print(*words):
+    console.write(str(*word) in words).join()
+
+
+C:
+
+def print(*words):
+    console.write(" ".join(str(word) for word in words))
+
+
+D:
+
+def print(a, b, c, d, e):
+    words = [str(a), str(b), str(c), str(d), str(e)]
+    console.write(" ".join(words))
