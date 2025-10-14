@@ -4,16 +4,16 @@ Make sure to read all the options before answering, some questions might be tryi
 1. Which of the following options is a valid way to write a function? Assume the function is called exampleFunction.
 
 A: 
-exampleFunction
+exampleFunction correct
 
 B:
-() exampleFunction
+() exampleFunction wrong
 
 C:
-exampleFunction()
+exampleFunction() wrong
 
 D: 
-(exampleFunction)
+(exampleFunction) wrong
 
 
 
@@ -41,13 +41,13 @@ A:
 write "6 7"
 
 B: 
-print("6 7")
+print("6 7") 
 
 C:
 "6 7" print
 
 D:
-print(6 7)
+print(6 7) correct
 
 
 
@@ -91,7 +91,7 @@ I like to code
 
 C:
 
-"My name is Mohammed"
+"My name is Mohammed" correct
 "I like to code"
 
 
@@ -137,4 +137,4 @@ C:
 "It is online, and it is very fun!"
 
 
-D: no output, there is a syntax error
+D: no output, there is a syntax error corrct

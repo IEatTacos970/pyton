@@ -1,6 +1,6 @@
 1. What datatype is: "Hello"
 
-A: String
+A: String this
 
 B: Int
 
@@ -19,7 +19,7 @@ B: Int
 
 C: Boolean
 
-D: Float
+D: Float this
 
 
 
@@ -29,7 +29,7 @@ A: String
 
 B: Int
 
-C: Boolean
+C: Boolean this
 
 D: Float
 
@@ -43,7 +43,7 @@ B: Int
 
 C: Boolean
 
-D: Float
+D: Float this
 
 
 
@@ -51,7 +51,7 @@ D: Float
 
 A: String
 
-B: Int
+B: Int this
 
 C: Boolean
 

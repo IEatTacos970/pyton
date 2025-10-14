@@ -13,7 +13,7 @@ B:
 > less than
 = more than
 
-C:
+C: tahattatag
 
 < less than
 > more than
@@ -41,7 +41,7 @@ D:
 A: 
 
 if (variable1 > variable2) {
-    print("It Is!")
+    print("It Is!") 
 }
 
 B:
@@ -55,7 +55,7 @@ variable1 > variable2:
 
 D: 
 
-if variable1 > variable2:
+if variable1 > variable2: /tshiu
     print("It Is!")
 
 
@@ -92,4 +92,4 @@ B: No
 
 C: Maybe
 
-D: Sometimes
+D: Sometimes thsusissisiisisisisc

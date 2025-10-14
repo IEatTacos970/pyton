@@ -7,7 +7,7 @@ B:
 variable1(3)
 
 C:
-variable1 = 3
+variable1 = 3 corrct
 
 D:
 variable1 3
@@ -41,7 +41,7 @@ anotherVariable = "Hello World"
 print(anotherVariable)
 
 
-A: Makes a variable called anotherVariable, sets it equal to "Hello World", and prints it to the console
+A: Makes a variable called anotherVariable, sets it equal to "Hello World", and prints it to the console corrct
 
 B: Makes a variable called "Hello World", sets it equal to anotherVariable, and then sets print() equal to "Hello World"
 

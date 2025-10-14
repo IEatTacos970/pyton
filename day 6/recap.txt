@@ -1,0 +1,306 @@
+1. What is the correct way to assign a value to a variable in Python?
+
+A) let x = 5
+B) int x = 5
+C) x = 5
+D) variable x = 5
+
+
+
+
+
+2. What data type is the value 3.14?
+
+A) Integer
+B) String
+C) Float
+D) Boolean
+
+
+
+
+
+3. What is the output of this code?
+
+x = 5
+y = "5"
+print(x + int(y))
+
+
+A) 55
+B) 10
+C) TypeError
+D) "55"
+
+
+
+
+
+
+4. What data type does the input() function give?
+
+A) Integer
+B) String
+C) Float
+D) Boolean
+
+
+
+
+
+
+5. What will this loop print?
+for i in range(3):
+    print("Hello")
+
+
+A) 
+
+Hello
+
+B) 
+
+Hello Hello Hello
+
+C)
+
+Hello  
+Hello  
+Hello
+
+D) Nothing
+
+
+
+
+
+
+
+
+6. Which loop prints only even numbers from 1 to 10?
+
+A)
+
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(i)
+
+
+B)
+
+for i in range(1, 11):
+    print(i)
+
+
+C)
+
+for i in range(2, 10):
+    print(i)
+
+
+D)
+
+for i in [2, 4, 6, 8, 10]:
+    break
+
+
+
+
+
+
+
+
+7. What is printed by this code?
+x = 10
+if x > 15:
+    print("Greater")
+else:
+    print("Smaller")
+
+
+A) Greater
+B) Smaller
+C) Nothing
+D) Error
+
+
+
+
+
+
+
+
+8. Which code makes a function that correctly prints “Hello, world!”?
+
+A) 
+
+print("Hello, world!")
+
+B)
+
+def greet():
+    print("Hello, world!")
+greet()
+
+
+C) 
+
+greet("Hello, world!")
+
+D) 
+
+"Hello, world!"
+
+
+
+
+
+
+
+
+
+
+9. What is the output of this code?
+def add(a, b):
+    return a + b
+
+print(add(3, 4))
+
+
+A) 7
+B) 3 + 4
+C) add(3, 4)
+D) Error
+
+
+
+
+
+
+
+
+
+10. What does this code print?
+nums = [2, 4, 6, 8]
+nums.append(10)
+print(nums)
+
+
+A) [2, 4, 6, 8]
+B) [10, 2, 4, 6, 8]
+C) [2, 4, 6, 8, 10]
+D) 10   
+
+
+
+
+
+
+
+
+11. What will this print?
+fruits = ["apple", "banana", "cherry"]
+print(fruits[1])
+
+
+A) apple
+B) banana
+C) cherry
+D) 1
+
+
+
+
+
+
+
+
+12. Which code prints every color in the list?
+
+A)
+
+for color in colors:
+    print(color)
+
+
+B)
+
+for colors in color:
+    print(colors)
+
+
+C)
+
+print(colors)
+
+
+D)
+
+while color in colors:
+    print(color)
+
+
+
+
+
+
+
+
+
+13. What is the output?
+
+x = 7
+if x % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
+A) Even
+B) Odd
+C) 7
+D) Error
+
+
+
+
+
+
+
+
+
+
+14. What does this code print?
+
+nums = [1, 2, 3, 4, 5]
+for n in nums:
+    if n > 3:
+        print(n)
+
+
+A) 1 2 3
+B) 4 5
+C) 1 2 3 4 5
+D) 3 4 5
+
+
+
+
+
+
+
+
+
+15. What is the output?
+
+def first_item(items):
+    return items[0]
+
+my_list = ["cat", "dog", "fish"]
+print(first_item(my_list))
+
+
+A) ["cat", "dog", "fish"]
+B) "cat"
+C) 0
+D) fish
